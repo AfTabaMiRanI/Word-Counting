@@ -1,0 +1,21 @@
+{
+  "name": "aqii-word-counting-project",
+  "version": "1.0.0",
+  "description": "In this project we know how many words we have written in our sentence or parragraph ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Aftab MiraNI",
+  "license": "ISC",
+  "dependencies": {
+    "aqii-word-counting": "^1.0.2",
+    "aqii-word-counting-project": "^1.0.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
